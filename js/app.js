@@ -61,6 +61,8 @@ function shuffleNames () {
 
 }
 
+// feature/teste-1
+
 // layout dos times
 // editar nome dos jogadores
 // excluir jogadores
